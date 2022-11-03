@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ainaperez
 - 📍 Based in Berlin
-- 🌱 I’m currently finishing a Web and WebApplication development master. 
+- 🌱 I’m currently working as a PHP developer, but I am searching for React oportunities.  
 - 👀 Interested in developing meaningful projects. My future interests also include generative art, cybersecurity and improving sustainability on the internet.
-- 💞️ I’m currently working as a PHP web developer. I am also interested in collaborating on Freelance projects on the side.
 - 🖥 you can find my portfolio in www.ainaperez.com 
 
 <!---
