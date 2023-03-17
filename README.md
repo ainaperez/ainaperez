@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ainaperez
 - 📍 Based in Berlin
-- 🌱 I’m currently working as a PHP developer, but I am looking for React oportunities.  
+- 🌱 I’m currently a software engineer student at Codeworks
 - 👀 Interested in developing meaningful projects. My future interests also include generative art, cybersecurity and improving sustainability on the internet.
 - 🖥 you can find my portfolio in www.ainaperez.com 
 
